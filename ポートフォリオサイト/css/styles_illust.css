@@ -1,0 +1,19 @@
+body{
+  font-family:"游ゴシック体", "YuGothic", "游ゴシック Medium", "Yu Gothic Medium", "游ゴシック", "Yu Gothic", sans-serif;
+  --my-color1: #746a61;
+  --my-color2: #ecf2f3;
+  --my-color3: #CB077F;
+  --my-color4: #9ac9f1;
+  --my-color5: rgb(75, 75, 75);
+  --my-color6: rgb(245, 248, 248);
+
+  background-color: var(--my-color2);
+  color: var(--my-color5);
+  text-align: center;
+}
+
+.img{
+  padding-top: 10px;
+}
+
+p{font-weight: bold;}
